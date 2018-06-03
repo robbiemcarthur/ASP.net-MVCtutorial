@@ -84,7 +84,12 @@ C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\Microsoft.AI.DependencyC
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\Microsoft.AI.Web.xml
-C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csprojResolveAssemblyReference.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csproj.CoreCompileInputs.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.dll
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.pdb
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.dll
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.SqlServer.dll
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.xml
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.SqlServer.xml
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csprojAssemblyReference.cache
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csproj.CopyComplete

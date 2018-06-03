@@ -1,4 +1,6 @@
-﻿namespace MVCtutorial.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MVCtutorial.Models
 {
     public class Review
     {
@@ -10,6 +12,9 @@
 
         public string Contents { get; set; }
 
+        [Required()]
+        [Display(Name ="Email Address")]
+        [DataType(DataType.EmailAddress)]
         public string ReviewerEmail { get; set; }
     }
 }

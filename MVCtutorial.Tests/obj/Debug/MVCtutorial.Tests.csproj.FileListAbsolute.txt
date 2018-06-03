@@ -77,7 +77,8 @@ C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\System.Web.W
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\System.Web.Optimization.xml
-C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csprojResolveAssemblyReference.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csproj.CoreCompileInputs.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.dll
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.pdb
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csprojAssemblyReference.cache
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csproj.CopyComplete
