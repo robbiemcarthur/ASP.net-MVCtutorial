@@ -82,3 +82,5 @@ C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.pdb
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csprojAssemblyReference.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\obj\Debug\MVCtutorial.Tests.csproj.CopyComplete
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\EntityFramework.dll
+C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial.Tests\bin\Debug\EntityFramework.xml

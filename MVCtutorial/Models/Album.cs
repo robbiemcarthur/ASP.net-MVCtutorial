@@ -11,5 +11,8 @@ namespace MVCtutorial.Models
 
         public String Title { get; set; }
 
+        public Artist Artist { get; set; }
+
+        public virtual List<Review> Review { get; set; }
     }
 }
