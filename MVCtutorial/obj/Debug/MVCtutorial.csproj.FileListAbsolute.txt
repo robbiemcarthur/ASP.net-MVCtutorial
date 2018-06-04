@@ -91,5 +91,4 @@ C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.dll
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.SqlServer.dll
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.xml
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\bin\EntityFramework.SqlServer.xml
-C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csprojAssemblyReference.cache
 C:\Users\robbi\source\repos\MVCtutorial\MVCtutorial\obj\Debug\MVCtutorial.csproj.CopyComplete
